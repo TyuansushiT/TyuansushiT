@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning R and Python.
 - 💞️ I’m looking to collaborate on some useful tools.
-- 📫 You can contact with me by the CSDN article.
+- 📫 You can contact with me by the CSDN article (https://blog.csdn.net/TyuansushiT/article/details/119696917).
 
 <!---
 TyuansushiT/TyuansushiT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
